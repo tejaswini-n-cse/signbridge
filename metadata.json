@@ -1,0 +1,6 @@
+{
+  "name": "SignBridge",
+  "description": "SignBridge – Breaking Communication Barriers Through AI-Powered Sign Language Translation. Real-time hand landmark detection, natural sentence generation, text-to-speech output, and text-to-sign visual communication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
